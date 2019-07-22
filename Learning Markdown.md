@@ -1,23 +1,24 @@
 #Learning Markdown#
 
-Markdown is a lightweight mark up language. Although HTML gives you more control, but it also takes more time. Markdown is easier to easier to use when it comes to notetaking. 
+Markdown is a lightweight mark up language. Although HTML gives you more control, but it also takes more time. Markdown is easier to easier to use when it comes to notetaking. Here is a quick summary on what I learned. :)
 
 
 ###Text###
-  Example: 
-  It's very easy to make some words **bold** and other words *italic* with Markdown.
+  To make words **bold**, use `**`around the text; such as `**bold**`.
+  To make words *italic*, use `*`around the text; such as `*italic*`.
   
 ###List###
+  For numbered lists, simply place the number and and period in front of the text. 
+  
   Example:
-  sometimes you want numbered lists:
 
 1. One
 2. Two
 3. Three
 
-Sometimes you want bullet points:
+  For bullet points:
 
-* Start a line with a star
+* Start a line with a `*`
 * Profit!
 
 Alternatively,
