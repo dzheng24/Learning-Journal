@@ -1,13 +1,13 @@
-#Learning Markdown#
+# Learning Markdown #
 
 Markdown is a lightweight mark up language. Although HTML gives you more control, but it also takes more time. Markdown is easier to easier to use when it comes to notetaking. Here is a quick summary on what I learned. :)
 
 
-###Text###
+### Text ###
   To make words **bold**, use `**`around the text; such as `**bold**`.
   To make words *italic*, use `*`around the text; such as `*italic*`.
   
-###List###
+### List ###
   For numbered lists, simply place the number and and period in front of the text. 
   
   Example:
@@ -20,10 +20,10 @@ Markdown is a lightweight mark up language. Although HTML gives you more control
 
 * Start a line with a `*`
 
-###Images###
+### Images ###
     To embed an image, follow this format: `![Alt Text](url)`
     
-###Links###
+### Links ###
     Links are automatic, simply type in the url, or place the url in parenthesis. 
 
 
