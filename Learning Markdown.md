@@ -20,6 +20,12 @@ Markdown is a lightweight mark up language. Although HTML gives you more control
 
 * Start a line with a `*`
 
+###Images###
+    To embed an image, follow this format: `![Alt Text](url)`
+    
+###Links###
+    Links are automatic, simply type in the url, or place the url in parenthesis. 
+
 
   
  **This is a helpful link to learn more about markdown**: https://guides.github.com/features/mastering-markdown/
