@@ -19,14 +19,8 @@ Markdown is a lightweight mark up language. Although HTML gives you more control
   For bullet points:
 
 * Start a line with a `*`
-* Profit!
 
-Alternatively,
 
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
   
  **This is a helpful link to learn more about markdown**: https://guides.github.com/features/mastering-markdown/
  
