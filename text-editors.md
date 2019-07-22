@@ -10,4 +10,20 @@
   An IDE (Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
 
 # Using a Terminal #
+  A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+  Opening a terminal is easy:
+    -If you're on a Mac then you'll find the program Terminal under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
+    
+ ### Basic Navigation Commands ###
+     - pwd (print working directory; "where we are currently")
+     - ls (list; "list the contents of a directory")
+     - cd (change directory; "move to another directory")
+     
+#### Some Concepts to Understand ####
+  **Relative path**
+    A file or directory location relative to where we currently are in the file system.
+  **Absolute path**
+    A file or directory location in relation to the root of the file system.
+
+
   
