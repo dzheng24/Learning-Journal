@@ -5,8 +5,7 @@ You can use the [editor on GitHub](https://github.com/dzheng24/Learning-Journal/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Growth Mindset
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Growth Mindset is the self-perception that you are not limited in your ability to learn, and to succeed.
 
 ```markdown
 Syntax highlighted code block
