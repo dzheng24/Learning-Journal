@@ -11,6 +11,7 @@ These are some reminders to keep me in that *Growth Mindset*.
  ![Michael Jordan](https://i.pinimg.com/736x/91/cd/f7/91cdf7c12def9a3ba39b7aa41b7f4587.jpg)
  
 ## About Me
-Hi everyone, my name is David. I am excited to learn about computers and coding more in depth, as well as transition to a career in tech. 
+Hi everyone, my name is David. I am excited to learn about computers and coding more in depth, as well as transition to a career in tech.
+[Link to my Github Page](https://dzheng24.github.io/Learning-Journal/)
 
 
